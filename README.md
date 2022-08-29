@@ -1,5 +1,5 @@
-<### gamer 100% ineficiente
-**Projeto de cosplayer falido
+< ### Gamer 100% ineficiente
+**Projeto de cosplayer falido**
 _Minha mãe disse que sou linda_
 gosto de batatas
 <!--
